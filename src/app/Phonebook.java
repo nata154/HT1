@@ -40,7 +40,7 @@ public class Phonebook {
 	// Добавление записи о человеке.
 	public boolean addPerson(Person person)
 	{
-		ResultSet db_result;
+	//	ResultSet db_result;
 		String query;
 		
 		// У человека может не быть отчества.
